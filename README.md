@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Eman Al-Battsh<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h3 align="center">A frontend developer from Palestine 🇵🇸</h3>
 
-<!--
-**emom121/emom121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emom121&label=Profile%20views&color=0e75b6&style=flat" alt="emom121" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emom121" alt="emom121" /></a> </p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Front+End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+- 🌱 I’m currently learning **Computer Engineering,I am currently ranked among the top three students in the collage**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/linkedin.com/in/em-ba-a40703317" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/E57239299?t=rro0fVDV1ZU8imNBkyKarQ&s=09" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://instagram.com/https://www.instagram.com/emanbattsh?igsh=mw1immwzexy1mwwzng==" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+ </p>
+ <h3 align="left">Other skills:</h3>
+ <p align = "center" >Object Oriented Programming, basics of python , C++ ,Java FX <br/>React bootestrap ,CRUD opertaions <br/>
+ reading scientific book ,self learning .</p>
+
+ -💗 Hoppies:A litle bit of art ,☕️ drinking my coffee in front of the mulberry tree
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emom121&show_icons=true&locale=en&layout=compact" alt="emom121" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emom121&show_icons=true&locale=en" alt="emom121" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emom121&" alt="emom121" /></p>
+
