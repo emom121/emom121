@@ -1,12 +1,5 @@
 <h1 align="center">Hi, I'm Eman Al-Battsh<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">A frontend developer from Palestine 🇵🇸</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emom121&label=Profile%20views&color=0e75b6&style=flat" alt="emom121" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emom121" alt="emom121" /></a> </p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Front+End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
 - 🌱 I’m currently learning **Computer Engineering,I am currently ranked among the top three students in the collage**
 - 💗 Hoppies:A litle bit of art ,☕️ drinking my coffee in front of the mulberry tree
 <h3 align="left">Connect with me:</h3>
