@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Front+End+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 - 🌱 I’m currently learning **Computer Engineering,I am currently ranked among the top three students in the collage**
-
+- 💗 Hoppies:A litle bit of art ,☕️ drinking my coffee in front of the mulberry tree
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/em-ba-a40703317" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
@@ -23,11 +23,3 @@
  <h3 align="left">Other skills:</h3>
  <p align = "center" >Object Oriented Programming, basics of python , C++ ,Java FX <br/>React bootestrap ,CRUD opertaions <br/>
  reading scientific book ,self learning .</p>
-
- -💗 Hoppies:A litle bit of art ,☕️ drinking my coffee in front of the mulberry tree
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emom121&show_icons=true&locale=en&layout=compact" alt="emom121" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emom121&show_icons=true&locale=en" alt="emom121" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emom121&" alt="emom121" /></p>
-
