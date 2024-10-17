@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Eman Al-Battsh<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">A frontend developer from Palestine 🇵🇸</h3>
-- 🌱 I’m currently learning **Computer Engineering,I am currently ranked among the top three students in the collage**
+- 🌱 I’m currently learning Computer Engineering,I am currently ranked among the top three students in the collage
 <br/>
-- 💗 Hoppies:A litle bit of art ,☕️ drinking my coffee in front of the mulberry tree
+- 💗 Hoppies: A litle bit of art ,☕️ drinking my coffee in front of the mulberry tree
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/linkedin.com/in/em-ba-a40703317" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
